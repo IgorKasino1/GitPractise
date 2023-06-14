@@ -1,0 +1,2 @@
+# GitPractise
+Тренировка по Git 
